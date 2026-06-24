@@ -1,6 +1,15 @@
-| X5             | [X5 \& X5\-AC one](https://github.com/ARXroboticsX/X5)  | ![1782291011867](images/readme/1782291011867.png) |
-| -------------- | ------------------------------------------------------- | ------------------------------------------------- |
-| **LIFT**       | [LIFT](https://github.com/ARXroboticsX/LIFT)            | ![1782291018393](images/readme/1782291018393.png) |
-| **A5**         | [A5 \& A5\-AC one](https://github.com/ARXroboticsX/A5)  | ![1782291104250](images/readme/1782291104250.png) |
-| **LIFT\-mini** | [LIFT\-mini](https://github.com/ARXroboticsX/LIFT-mini) | ![1782291043146](images/readme/1782291043146.png) |
-| **CAD/URDF**   | [model](https://github.com/ARXroboticsX/ARX_Model)      |                                                   |
+<div align="center">
+
+# ARX Robotics
+
+</div>
+
+## 🦾 Products
+
+| Product | Repository | Preview |
+| :------ | :--------- | :------ |
+| **X5** | [X5 & X5-AC one](https://github.com/ARXroboticsX/X5) | <img src="images/readme/X5.png" alt="X5" width="220"><br><img src="images/readme/AC_ONE_X5.png" alt="X5-AC one" width="220"> |
+| **LIFT** | [LIFT](https://github.com/ARXroboticsX/LIFT) | <img src="images/readme/LIFT.png" alt="LIFT" width="220"> |
+| **A5** | [A5 & A5-AC one](https://github.com/ARXroboticsX/A5) | <img src="images/readme/A5.jpg" alt="A5" width="220"><br><img src="images/readme/AC_ONE.png" alt="A5-AC one" width="220"> |
+| **LIFT-mini** | [LIFT-mini](https://github.com/ARXroboticsX/LIFT-mini) | <img src="images/readme/LIFT_MINI.png" alt="LIFT-mini" width="220"> |
+| **CAD/URDF** | [model](https://github.com/ARXroboticsX/ARX_Model) | — |
